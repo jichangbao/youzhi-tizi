@@ -16,7 +16,7 @@
 | 6 | [二猫云](https://youzhitizi.blog/review/ermao-yun/) | 8.9 | IEPL 专线 / 官网未注明 | ¥89/年（60GB/月） | ¥20/月（130GB） | `ermao888` |
 | 7 | [Firefly](https://youzhitizi.blog/review/firefly/) | 8.8 | IPLC 专线 / 官网未注明 | ¥96/年（60GB/月） | ¥25/月（150GB） | `firefly` |
 | 8 | [宇宙云](https://youzhitizi.blog/review/yuzhou-yun/) | 8.7 | IEPL/IPLC 专线 / 自研客户端 | ¥96/年（60GB/月） | ¥25/月（160GB） | `YUZHOU553` |
-| 9 | [无忧](https://youzhitizi.blog/review/wuyou/) | 8.6 | IPLC 专线 / 官网未注明 | ¥79/年（40GB/月） | ¥19/月（100GB） | `wuyou` |
+| 9 | [无忧](https://youzhitizi.blog/review/wuyou/) | 8.6 | IPLC 专线 / 官网未注明 | ¥79/年（50GB/月） | ¥25/月（160GB） | `wuyou` |
 | 10 | [光速云](https://youzhitizi.blog/review/guangsu-yun/) | 8.5 | IPLC 专线 / VLESS | ¥99/年（59GB/月） | ¥23/月（138GB） | `AMM` |
 | 11 | [星岛梦](https://youzhitizi.blog/review/xingdaomeng/) | 8.4 | IPLC 专线 / VLESS | ¥96/年（60GB/月） | ¥25/月（150GB） | `nmw888` |
 | 12 | [唯兔云](https://youzhitizi.blog/review/weitu-yun/) | 8.3 | IEPL/IPLC 专线 / VLESS | ¥79.9/年（45GB/月） | ¥19.9/月（150GB） | `rabbit` |
@@ -36,7 +36,7 @@
 | 二猫云 | 想要一个不用每月续费的备用梯子 |
 | Firefly | 不想研究复杂套餐、只想简单选一档的用户 |
 | 宇宙云 | 不想折腾客户端配置的小白 |
-| 无忧 | 预算极低、每月只用 40GB 以内的用户 |
+| 无忧 | 预算极低、每月只用 50GB 以内的用户 |
 | 光速云 | 需要欧洲节点（英法德）的用户 |
 | 星岛梦 | 会按用途挑节点的进阶用户（AI、养号、流媒体分开用） |
 | 唯兔云 | 想要主线 + 直连双保险的用户 |
